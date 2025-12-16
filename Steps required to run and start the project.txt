@@ -1,0 +1,20 @@
+- packages:
+
+   laravel/breeze --dev
+   spatie/laravel-permission
+
+- Use Repository design pattern .
+- Mysql database .
+- Laravel V11 .
+
+To get project running :
+
+   composer install.
+   php artisan migrate .
+   php artisan db:seed .
+   npm install .
+   npm run dev .
+   php artisan serve .
+
+
+
