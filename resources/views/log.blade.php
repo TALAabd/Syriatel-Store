@@ -4,12 +4,12 @@
 
         <div class="flex-1 p-8 space-y-8">
 
-            {{-- Page Title --}}
+            
             <div class="flex justify-between items-center mb-6">
                 <h1 class="text-3xl font-bold text-gray-800">Order History Report</h1>
             </div>
 
-            {{-- Daily Sales --}}
+            
             <div class="bg-white shadow rounded-lg p-6 border">
                 <h2 class="text-xl font-semibold text-gray-700 mb-4">Daily Sales</h2>
                 <div class="overflow-x-auto">
@@ -40,7 +40,7 @@
                 </div>
             </div>
 
-            {{-- Monthly Sales --}}
+        
             <div class="bg-white shadow rounded-lg p-6 border">
                 <h2 class="text-xl font-semibold text-gray-700 mb-4">Monthly Sales</h2>
                 <div class="overflow-x-auto">
@@ -71,7 +71,7 @@
                 </div>
             </div>
 
-            {{-- Yearly Sales --}}
+            
             <div class="bg-white shadow rounded-lg p-6 border">
                 <h2 class="text-xl font-semibold text-gray-700 mb-4">Yearly Sales</h2>
                 <div class="overflow-x-auto">
